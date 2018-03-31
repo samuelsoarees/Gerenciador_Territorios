@@ -1,0 +1,8 @@
+{
+  "name": "Gerenciador_Territorios",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
